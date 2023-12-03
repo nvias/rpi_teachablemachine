@@ -7,7 +7,7 @@ Software for running TeachableMachine Keras model on Raspberry Pi 4 developed fo
 
 ## Usage 
 1. Fork this repository
-2. Train your model on [TeachableMachine](Teachablemachine.withgoogle.com)
+2. Train your model on [TeachableMachine](https://teachablemachine.withgoogle.com)
 3. Download your trained model as TensorFlow Keras model
 4. Unzip and paste *converted_keras* into your directory with forked repo
 5. Commit changes

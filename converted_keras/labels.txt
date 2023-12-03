@@ -1,0 +1,7 @@
+0 man
+1 woman
+2 dog
+3 cat
+4 car
+5 phone
+6 laptop

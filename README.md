@@ -3,7 +3,15 @@ Software for running TeachableMachine Keras model on Raspberry Pi 4 developed fo
 
 ## Requirements
 - RPI 4 with camera
-- [installed Tensorflow 2](https://qengineering.eu/install-tensorflow-2.1.0-on-raspberry-pi-4.html) 
+- [installed Tensorflow 2](https://qengineering.eu/install-tensorflow-2.1.0-on-raspberry-pi-4.html)
+
+## Usage 
+1. Fork this repository
+2. Train your model on [TeachableMachine](chablemachine.withgoogle.com)
+3. Download your trained model as TensorFlow Keras model
+4. Unzip and paste *converted_keras* into your directory with forked repo
+5. Commit changes
+6. Pull changes on your RPI and run `pyhton3 main.py`
 
 ## License
 ```
